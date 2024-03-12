@@ -21,3 +21,11 @@ if (day === 'Saturday' || day === 'Sunday') {
   console.log('Do some work.');
 }
 */
+
+/*
+let excited = true;
+console.log(!excited); // Prints false
+
+let sleepy = false;
+console.log(!sleepy); // Prints true
+*/
